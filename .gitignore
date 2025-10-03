@@ -1,6 +1,9 @@
 # Sensitive files
 models.json
 
+# Local development
+CLAUDE.md
+
 # Python
 __pycache__/
 *.py[cod]

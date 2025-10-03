@@ -15,8 +15,8 @@ sentiment = passage.sentiment # LLM analyzes sentiment
 ## Installation
 
 ```bash
-# Set up PolyCLI environment (prerequisite)
-source /Users/lexicalmathical/Codebase/PolyCLI/.venv/bin/activate
+# Install PolyCLI (prerequisite)
+# See: https://github.com/shuxueshuxue/PolyCLI
 
 # Install AgentLang (development mode)
 pip install -e .
@@ -95,4 +95,4 @@ See [docs/agentlang-core-concepts.md](docs/agentlang-core-concepts.md) for detai
 
 - Neural Symbolic PL: https://arxiv.org/pdf/2304.04812
 - Related work: https://arxiv.org/abs/2505.13453
-- PolyCLI: /Users/lexicalmathical/Codebase/PolyCLI
+- PolyCLI: https://github.com/shuxueshuxue/PolyCLI
